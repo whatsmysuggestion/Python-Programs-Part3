@@ -1,0 +1,12 @@
+a=10
+print(type(a))
+if(type(a)==int):
+    print("integer")
+a="string"
+print(type(a))
+if(type(a)==str):
+    print("str")
+a=12.3
+print(type(a))
+if(type(a)==float):
+    print("float")
